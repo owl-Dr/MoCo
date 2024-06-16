@@ -2,10 +2,6 @@
 
 MoCo is a movie recommendation system that leverages machine learning models to help users discover movies based on their preferences. This project includes data preprocessing, feature engineering, model training, and a web interface built using Streamlit.
 
-![MoCo: Movie Companion](https://img.youtube.com/vi/your-video-id/maxresdefault.jpg)
-
-[Watch the Project Demo Video](https://www.youtube.com/watch?v=your-video-id)
-
 ## Installation
 
 1. **Clone the repository:**
