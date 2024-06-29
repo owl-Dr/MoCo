@@ -45,9 +45,9 @@ MoCo/
 
 ## Dataset Preparation
 
-The dataset used for this project is derived from the IMDB 5000 Movie Dataset available on Kaggle. Follow these steps to prepare the `data.csv` file:
+The dataset used for this project is derived from the TMDB 5000 Movie Dataset available on Kaggle. Follow these steps to prepare the `data.csv` file:
 
-1. **Download the dataset** from [Kaggle](https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset).
+1. **Download the dataset** from [Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
 
 2. **Run the `data_preparation.ipynb` notebook** in the `Preprocessing` folder. This notebook will merge and preprocess the datasets to generate `data.csv`.
 
